@@ -23,7 +23,7 @@ API RESTful para processamento e gerenciamento de pagamentos, desenvolvida com S
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/api-pagamento.git
+git clone https://github.com/MarcossVini/API-de-pagamento.git
 cd api-pagamento
 ```
 
@@ -127,7 +127,3 @@ mvn test
 3. Commit suas alterações (`git commit -m 'Adicionando nova feature'`)
 4. Push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
