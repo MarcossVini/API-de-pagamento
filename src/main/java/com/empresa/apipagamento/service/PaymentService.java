@@ -5,8 +5,6 @@ import com.empresa.apipagamento.dto.PaymentResponse;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
-import java.util.List;
-
 public interface PaymentService {
     PaymentResponse createPayment(PaymentRequest paymentRequest);
     PaymentResponse getPaymentById(Long id);
